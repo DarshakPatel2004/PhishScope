@@ -2,5 +2,5 @@
 Make use of different ML Models to perform analysis
 
 1. Logical Regression
-2. Support Vector Machine
-3. XgBoost(GPU Only)
+2. Random Forest
+3. Hybrid Model of LR and RF
