@@ -3,4 +3,4 @@ Make use of different ML Models to perform analysis
 
 1. XGBoost
 2. Random Forest
-3. Logistic Regression
+3. Logistic Regression with TF-IDF
