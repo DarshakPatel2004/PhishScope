@@ -101,8 +101,8 @@ graph TD
     I --> J[Final Verdict & Confidence]
     J --> K[JSON Data Dump / CSV Report]
     
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style J fill:#00D4FF,stroke:#333,stroke-width:4px
+    style A fill#940b09,stroke:#333,stroke-width:2px
+    style J fill:#188008,stroke:#333,stroke-width:4px
     style E fill:#444,color:#fff
 ```
 
